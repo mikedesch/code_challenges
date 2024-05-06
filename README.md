@@ -6,3 +6,5 @@
 - [Project Euler](https://projecteuler.net/)
 - [Rosalind](https://rosalind.info/)
 - [Linux Foundation](https://www.linuxfoundation.org/)
+- Email challenges via [Daily Coding Problem](https://www.dailycodingproblem.com/)
+-   cs.m***@gmail.com
